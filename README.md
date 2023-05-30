@@ -9,7 +9,8 @@ https://drive.google.com/file/d/1hhKOG5yvCKBLJceCg5S-WVEC7m84M9oy/view?usp=share
 site: https://studyber.com/creating-an-application-in-salesforce-com-using-apex-programming-language/
 https://drive.google.com/file/d/1PeU--jnQktiUp0AMb3WZYWywFYLlJCJs/view?usp=share_link
 
-code 1 : 
+code 1 :
+'''
 `public class mayur {
     public static void create(String Name, String Phone){
         account ac = new account();
@@ -19,8 +20,9 @@ code 1 :
         System.debug('Account Created Successful for '+ ac.name);
     }
 }`
-
+'''
 code 2:
+'''
 `public class firstClass1 {
  public static void Addition()
 {
@@ -72,6 +74,7 @@ code 2:
     System.debug(e);
  }
 }`
+'''
 
 ### Cloud Computing (Custom Application)
 https://studyber.com/design-and-develop-custom-application-mini-project-using-sales-force-cloud/
