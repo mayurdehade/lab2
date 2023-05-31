@@ -88,7 +88,7 @@ https://studyber.com/design-and-develop-custom-application-mini-project-using-sa
 
 https://drive.google.com/file/d/1D1m-y1UmoRzp-npeKMdyxSxZgulxGc3I/view?usp=share_link
 
-***Steps: ->***
+***Steps:***
 1) custome obj
 2) Tabs
 3) App manager -> new lightning app
